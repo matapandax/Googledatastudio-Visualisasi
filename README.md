@@ -1,7 +1,6 @@
 # Google data studio-Visualisasi
-</br>
+
 Salah Satu Tugas Dari google Developer Group Semarang Pembuatannya menggunakan Set Data Dari Kaggle : https://www.kaggle.com/varpit94/football-teams-rankings-stats
-</br>
 
 # Study Case : Melihat Seberapa Jauh Rating Tim terbaik Berdasarkan Performa Dari Setiap Liga Tahun 2020 - 2021
 
@@ -9,10 +8,10 @@ Salah Satu Tugas Dari google Developer Group Semarang Pembuatannya menggunakan S
 
 
 Link Google Data Studio :https://datastudio.google.com/u/0/reporting/438ee535-d327-4aba-bb64-e7dd792b26e7/page/e4sSC/edit
-</br>
+
 
 Tools Yang Digunakan : Google Data Studio, Ms.Excel 
-</br>
+
 # Tampilan Dasboard
-</br>
+
 ![image](https://user-images.githubusercontent.com/36734209/124443298-c20f6d80-dda7-11eb-827e-84e728bf4f3d.png)
