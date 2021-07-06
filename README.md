@@ -1,5 +1,7 @@
 # Google data studio-Visualisasi
 
+<img src="https://developers.google.com/community/gdg/images/gdg-hero-connect-local-devs_1440.png" alt="GDG Semarang">
+
 Salah Satu Tugas Dari google Developer Group Semarang Pembuatannya menggunakan Set Data Dari Kaggle : https://www.kaggle.com/varpit94/football-teams-rankings-stats
 
 # Study Case : Melihat Seberapa Jauh Rating Tim terbaik Berdasarkan Performa Dari Setiap Liga Tahun 2020 - 2021
